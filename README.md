@@ -22,13 +22,7 @@ Currently, in addition, I'm working with Machine Learning projects on the IBM Wa
 
 <hr>
 
-### 📬  Get in Touch
-
-- GitHub: [github.com/ramonlimaramos][github]
-- Site: [ramonlimaramos.github.io/home/][site]
-- E-mail: ramonlimaramos@gmail.com
-<br/><br/>
-
-![Ramon Lima Ramos's github stats](https://github-readme-stats.vercel.app/api?username=ramonlimaramos&show_icons=true&hide_border=true)
-
-![Ramon Lima Ramos's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ramonlimaramos&layout=compact)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonlimaramos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonlimaramos&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
