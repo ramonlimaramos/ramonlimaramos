@@ -3,6 +3,8 @@
 
 <p align="right">
 <a href="https://www.linkedin.com/in/ramon-de-lima-ramos-35847024/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://twitter.com/ramonlimaramos/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=linkedin" alt="Twitter"></a>
+<a href="https://www.instagram.com/ramonlimaramos/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
   <a href="#"><img src="https://img.shields.io/badge/Python--_.svg?logo=Python&style=social"></a>
   <a href="#"><img src="https://img.shields.io/badge/NodeJs--_.svg?logo=Node.js&style=social"></a>
   <a href="#"><img src="https://img.shields.io/badge/Go--_.svg?logo=Go&style=social"></a>
@@ -10,7 +12,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Docker--_.svg?logo=Docker&style=social"></a>
   <a href="#"><img src="https://img.shields.io/badge/Kubernetes--_.svg?logo=Kubernetes&style=social"></a>
   <a href="#"><img src="https://img.shields.io/badge/React--_.svg?logo=React&style=social"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Angular--_.svg?logo=Angular&style=social"></a>
 <img src="https://komarev.com/ghpvc/?username=ramonlimaramos&label=Profile%20views&color=0e75b6&style=flat-square" alt="ramonlimaramos" /> 
 </p>
 
