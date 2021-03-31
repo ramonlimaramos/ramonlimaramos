@@ -14,11 +14,13 @@
 I'm <em>Full Stack Developer</em> but whether necessary fireman too.<br/>Taking CA, CC, and XP to the challenges
 
 - 👨‍💻 Currently working for IBM CIO;
-- 🧠 Enhancing skills in Elixir and Golang;
+- :books: Enhancing skills in Elixir and Golang;
 - 🎮 Weekend Gamer;
-- 🍺 #beerlover;
-- ☕ + 🎸 = code;
+- 🍺 Brewer;
+- (☕ + 🎸) = code;
 </p>
+
+<br/>
 
 ____
 
