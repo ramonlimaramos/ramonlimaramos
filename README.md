@@ -20,7 +20,7 @@ I'm <em>Full Stack Developer</em> but whether necessary fireman too.<br/>Taking 
 - ☕ + 🎸 = code;
 </p>
 
-<hr>
+____
 
 ### Universes that I often travel to :rocket:
 
@@ -34,7 +34,7 @@ I'm <em>Full Stack Developer</em> but whether necessary fireman too.<br/>Taking 
   <a href="#"><img src="https://img.shields.io/badge/React--_.svg?logo=React&style=social"></a>
 </p>
 
-<hr>
+____
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonlimaramos&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
