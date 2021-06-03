@@ -13,7 +13,7 @@
 
 I'm <em>Full Stack Developer</em> but whether necessary fireman too.<br/>Taking CA, CC, and XP to the challenges
 
-- 👨‍💻 Currently working for IBM CIO;
+- 👨‍💻 Currently working for Clevertech;
 - :books: Enhancing skills in Elixir and Golang;
 - 🎮 Weekend Gamer;
 - 🍺 Brewer;
