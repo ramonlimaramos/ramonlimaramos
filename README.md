@@ -1,5 +1,4 @@
 
-# Ramon Ramos
 
 <p align="left" style="font-size:15px">
 <a href="https://www.linkedin.com/in/ramon-de-lima-ramos-35847024/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
