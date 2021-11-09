@@ -10,7 +10,7 @@
 <p>
 <img align="right" width="290em" height="193em" src="https://raw.githubusercontent.com/ramonlimaramos/ramonlimaramos/master/img/jim_the_typer.gif" alt="Image showing Ramon Ramos, full stack developer">
 
-I'm <em>Full Stack Developer</em> but whether necessary fireman too.<br/>Taking CA, CC, and XP to the challenges
+I'm <em>Senior Software Engineer</em> but whether necessary fireman too.
 
 - 👨‍💻 Currently working for Podium;
 - :books: falling in love with Elixir;
