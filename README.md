@@ -12,8 +12,8 @@
 
 I'm <em>Full Stack Developer</em> but whether necessary fireman too.<br/>Taking CA, CC, and XP to the challenges
 
-- 👨‍💻 Currently working for Clevertech;
-- :books: Enhancing skills in Elixir and Golang;
+- 👨‍💻 Currently working for Podium;
+- :books: falling in love with Elixir;
 - 🎮 Weekend Gamer;
 - 🍺 Brewer;
 - (☕ + 🎸) = code;
