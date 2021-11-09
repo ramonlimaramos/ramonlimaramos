@@ -13,9 +13,9 @@
 I'm <em>Senior Software Engineer</em> but whether necessary fireman too.
 
 - 👨‍💻 Currently working for Podium;
-- :books: falling in love with Elixir;
-- 🎮 Weekend Gamer;
-- 🍺 Brewer;
+- :books: Falling in love with Elixir;
+- 🎮  Weekend Gamer;
+- 🍺  Brewer;
 - (☕ + 🎸) = code;
 </p>
 
